@@ -27,12 +27,13 @@ Passionate about building robust and scalable systems. 🚀
 
 - [Musteat Place](https://github.com/terryhyuk/musteatplace)
   An app for saving and sharing your favorite restaurants.
+  
 ---
 
 ## 🍏 SWIFT PROJECT
 
 - [Subway Digital Poster Ad](https://github.com/terryhyuk/Subway-Digital-Poster-Ad)  
-  지하철 디지털 포스터 광고 앱입니다.
+  An analytics app that predicts and visualizes the age distribution of subway passengers by time slot and station, helping advertisers optimize their subway ad strategies.
 
 ---
 
