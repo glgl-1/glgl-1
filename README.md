@@ -33,7 +33,7 @@ Passionate about building robust and scalable systems. 🚀
 ## 🍏 SWIFT PROJECT
 
 - [Subway Digital Poster Ad](https://github.com/terryhyuk/Subway-Digital-Poster-Ad)  
-  An app that analyzes and predicts the age distribution of subway passengers by time slot and station, providing actionable insights for advertisers
+  An app that analyzes and predicts the age distribution of subway passengers for advertisers
 
 ---
 
