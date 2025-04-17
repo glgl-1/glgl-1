@@ -25,7 +25,7 @@ Passionate about building robust and scalable systems. 🚀
 - [LUCKY DEPOT (Web)](https://github.com/terryhyuk/LuckDepot)  
   A web service built with Flutter.
 
-- [Musteat Place](https://github.com/terryhyuk/musteatplace)
+- [Musteat Place](https://github.com/terryhyuk/musteatplace)  
   An app for saving and sharing your favorite restaurants.
   
 ---
@@ -33,7 +33,7 @@ Passionate about building robust and scalable systems. 🚀
 ## 🍏 SWIFT PROJECT
 
 - [Subway Digital Poster Ad](https://github.com/terryhyuk/Subway-Digital-Poster-Ad)  
-  An analytics app that predicts and visualizes the age distribution of subway passengers by time slot and station, helping advertisers optimize their subway ad strategies.
+  An app that analyzes and predicts the age distribution of subway passengers by time slot and station, providing actionable insights for advertisers
 
 ---
 
